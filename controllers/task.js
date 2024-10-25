@@ -1,4 +1,3 @@
-const { query } = require("express");
 const taskModel = require("../models/task");
 
 //create task
